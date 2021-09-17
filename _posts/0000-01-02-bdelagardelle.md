@@ -3,6 +3,6 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 
-Your text
+*'Life is to live and to live is life'*
 
 Use the left arrow to go back!
